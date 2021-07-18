@@ -35,3 +35,5 @@ for n in range(1, page_count+1):
 #
 #with open('geonode_proxies.txt', 'a') as f:
 #    f.write('}\n')
+
+print(f"Scraped {total} proxies!")
