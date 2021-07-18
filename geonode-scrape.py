@@ -31,7 +31,7 @@ for n in range(1, page_count+1):
 #for n in range(1, page_count+1):
 #    r = requests.get(f'https://proxylist.geonode.com/api/proxy-list?limit={limit}&page={n}{link[61:]}')
 #    with open('geonode_proxies.txt', 'a') as f:
-#        for DICTedData in r.json()["data"]: f.write(f'"{DICTedData["protocols"][0]}": "{DICTedData["ip"]}:{DICTedData["port"]}"\n')
+#        for DICTedData in r.json()["data"]: f.write(f'"{DICTedData["protocols"][0]}": "{DICTedData["ip"]}:{DICTedData["port"]}",\n')
 #
 #with open('geonode_proxies.txt', 'a') as f:
 #    f.write('}\n')
