@@ -15,3 +15,6 @@ It also offers [free proxies](https://geonode.com/free-proxy-list) and you can c
 ## Sample
 ![3](https://raw.githubusercontent.com/xpluna/geonode-scrape/main/3.PNG "3")<br>
 ![4](https://raw.githubusercontent.com/xpluna/geonode-scrape/main/4.PNG "4")<br>
+
+## Output
+![5](https://raw.githubusercontent.com/xpluna/geonode-scrape/main/5.PNG "5")<br>
