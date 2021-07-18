@@ -9,3 +9,5 @@ It also offers [free proxies](https://geonode.com/free-proxy-list) and you can c
 ### The objective of this repository is to import proxies from [GeoNode](https://geonode.com/free-proxy-list) but only the information which is needed.<br>
 
 ## The link you need to have
+![1](https://raw.githubusercontent.com/xpluna/geonode-scrape/main/1.PNG "1")<br>
+![2](https://raw.githubusercontent.com/xpluna/geonode-scrape/main/2.PNG "2")
