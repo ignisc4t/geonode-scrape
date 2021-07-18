@@ -10,4 +10,8 @@ It also offers [free proxies](https://geonode.com/free-proxy-list) and you can c
 
 ## The link you need to have
 ![1](https://raw.githubusercontent.com/xpluna/geonode-scrape/main/1.PNG "1")<br>
-![2](https://raw.githubusercontent.com/xpluna/geonode-scrape/main/2.PNG "2")
+![2](https://raw.githubusercontent.com/xpluna/geonode-scrape/main/2.PNG "2")<br>
+
+## Sample
+![3](https://raw.githubusercontent.com/xpluna/geonode-scrape/main/3.PNG "3")<br>
+![4](https://raw.githubusercontent.com/xpluna/geonode-scrape/main/4.PNG "4")<br>
