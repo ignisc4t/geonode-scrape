@@ -1,1 +1,2 @@
-# geonode-scrape
+# Geonode-Scrape
+[GeoNode](https://geonode.com) is a web-based application and platform for developing geospatial information systems (GIS)<br>and for deploying spatial data infrastructures (SDI).<br>It is designed to be extended and modified, and can be integrated into existing platforms.<br>It also offers [free proxies](https://geonode.com/free-proxy-list) and you can choose the parameters too unlike other free proxy sites.
