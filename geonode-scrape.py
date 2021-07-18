@@ -36,4 +36,4 @@ for n in range(1, page_count+1):
 #with open('geonode_proxies.txt', 'a') as f:
 #    f.write('}\n')
 
-input(f"\nScraped {total} proxies!\nPress ENTER to exit.")
+input("\nFinished scraping proxies!\nPress ENTER to exit.")
