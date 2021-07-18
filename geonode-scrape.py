@@ -3,7 +3,7 @@ from math import ceil
 
 proxy_link = str(input('Geonode Proxies link\n>>> '))
 
-if proxy_link[51] == '5':link = list_link[:51] + '200' + list_link[53:] ## Too lazy to correct 2-digit limits
+if proxy_link[51] == '5':link = proxy_link[:51] + '200' + proxy_link[53:] ## Too lazy to correct 2-digit limits
 else: link = proxy_link
 
 ## Total Proxy Count.
