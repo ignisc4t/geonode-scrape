@@ -37,3 +37,4 @@ for n in range(1, page_count+1):
 #    f.write('}\n')
 
 print(f"Scraped {total} proxies!")
+
